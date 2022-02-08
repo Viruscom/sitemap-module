@@ -1,0 +1,27 @@
+{
+    "name": "iwish/sitemap",
+    "description": "",
+    "authors": [
+        {
+            "name": "test",
+            "email": "test@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Sitemap\\": ""
+        }
+    },
+    "type": "laravel-module",
+    "require": {
+        "spatie/laravel-sitemap": "* --update-with-dependencies"
+    }
+}
