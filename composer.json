@@ -22,6 +22,6 @@
     },
     "type": "laravel-module",
     "require": {
-        "spatie/laravel-sitemap": "5.* --update-with-dependencies"
+        "spatie/laravel-sitemap": "5.*"
     }
 }
